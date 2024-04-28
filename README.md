@@ -1,2 +1,3 @@
 # sinh
-iu 
+auto chết
+#auto farm lever
